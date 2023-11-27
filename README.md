@@ -1,7 +1,6 @@
 # Project Description
 **Part 1 Docker Networking:** This part will test my understanding of Docker networking and how to use it to connect Docker containers. I will be required to perform several tasks and document my findings in a README.md file on my GitHub repository.
 
-# NGINX
 ### This section shows the working flow of `nginx` image.  
 **1. First I created the network `my_network` as you can see in the image below. The `docker network ls` is showing the newly created network.**
 ![Docker network create](/assets/network_create.png)<br><br>
